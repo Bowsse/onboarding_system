@@ -5,7 +5,7 @@
 Automate the mundane, multi-system, cross-departmental process of onboarding a new employee. Today this is done by a human copy-pasting between Workday, Active Directory, Slack Admin, Google Workspace, a badge system, and a shipping portal — checking 15 checkboxes and re-checking when step 3 fails because step 1 wasn't done.
 
 ---
-
+![Console view](console_view.png)
 ## Architecture Pattern
 
 **Hierarchical/supervisory** — one orchestrator agent delegates to specialist sub-agents treated as tools. Sub-agents have no awareness of each other; all coordination flows through the orchestrator.
