@@ -1,7 +1,7 @@
 # Multi-Agent Employee Onboarding System
 A vibe coded demo for the AI tools for managers course. 
 Uses one locall llamacpp server to launch local agents and https://build.nvidia.com/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning for reviewing the local agents work.
-
+The services used are mock endpoints.
 
 ## Overview
 
