@@ -127,11 +127,3 @@ Each agent follows the **Contractual Skills framework** (arXiv:2605.22634): expl
 
 ---
 
-## MVP Path (1-2 weeks)
-
-1. Orchestrator + IT agent only (most painful, most repetitive)
-2. Hardcoded Slack/email tool integrations
-3. Human-in-the-loop gate before account creation
-4. Simple SQLite/JSON state file (no DB yet)
-5. Metrics: time-to-provision vs. manual baseline
-6. Add HR and Facilities incrementally — modular design makes this a config change, not a rewrite
