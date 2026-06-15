@@ -1,4 +1,7 @@
 # Multi-Agent Employee Onboarding System
+A vibe coded demo for the AI tools for managers course. 
+Uses one locall llamacpp server to launch local agents and https://build.nvidia.com/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning for reviewing the local agents work.
+
 
 ## Overview
 
@@ -13,6 +16,7 @@ Automate the mundane, multi-system, cross-departmental process of onboarding a n
 **Framework:** LangGraph (Python) — stateful graphs with built-in human-in-the-loop interrupts and parallel branching.
 
 ---
+![New hire](new_hire.png)
 
 ## Agent Definitions
 
